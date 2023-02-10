@@ -2,8 +2,7 @@
 
 Ryde is a mobile application that allows users to book rides with just a few taps. With a user-friendly interface, the Ride Application provides a convenient and efficient solution for all your transportation needs. 
 
-![ryde1](https://user-images.githubusercontent.com/85138073/217971594-b801c6c6-7b61-40db-b3ad-ef87d008b596.jpg)
-
+# Screen record from app
 
 https://user-images.githubusercontent.com/85138073/217972013-6d2b65f5-1ab0-4b7b-bb57-0fe41ac44465.mov
 
